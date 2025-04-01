@@ -1,0 +1,671 @@
+[
+  {
+    "id": "30d4322e-89d5-4641-9a3b-f955f68ccd13",
+    "name": "Espresso Lab",
+    "description": "",
+    "url": "https://boykotyap.net/",
+    "brands": [
+      {
+        "rule": "espressolab"
+      },
+      {
+        "rule": "espresso lab"
+      }
+    ],
+    "domains": [
+      {
+        "rule": "espressolab.com"
+      },
+      {
+        "rule": "x.com/espressolabtr"
+      },
+      {
+        "rule": "instagram.com/espressolabtr"
+      }
+    ],
+    "lastUpdated": "2025-03-31T20:41:03.324Z"
+  },
+  {
+    "id": "24d030a8-aa7c-426d-8d0b-25b6f24bd04b",
+    "name": "ETS Tur",
+    "description": "",
+    "url": "https://boykotyap.net/",
+    "brands": [
+      {
+        "rule": "etstur"
+      },
+      {
+        "rule": "ets tur"
+      }
+    ],
+    "domains": [
+      {
+        "rule": "etstur.com"
+      },
+      {
+        "rule": "x.com/etstur"
+      },
+      {
+        "rule": "instagram.com/etstur"
+      }
+    ],
+    "lastUpdated": "2025-03-31T20:41:08.875Z"
+  },
+  {
+    "id": "2625b9ea-a74b-44d8-8e69-c84fbe4092fb",
+    "name": "TRT",
+    "description": "",
+    "url": "https://boykotyap.net/",
+    "brands": [],
+    "domains": [
+      {
+        "rule": "trt.net.tr"
+      },
+      {
+        "rule": "x.com/trthaber"
+      },
+      {
+        "rule": "instagram.com/trthaber"
+      },
+      {
+        "rule": "youtube.com/@trt1"
+      },
+      {
+        "rule": "youtube.com/@trthaber"
+      }
+    ],
+    "lastUpdated": "2025-03-31T20:41:19.084Z"
+  },
+  {
+    "id": "c57740a8-65b4-4827-a19d-52cd240f33b2",
+    "name": "İhlas Holding",
+    "description": "",
+    "url": "https://boykotyap.net/",
+    "brands": [],
+    "domains": [
+      {
+        "rule": "iha.com.tr"
+      },
+      {
+        "rule": "x.com/ihacomtr"
+      },
+      {
+        "rule": "instagram.com/ihacomtr"
+      },
+      {
+        "rule": "tgrthaber.com.tr"
+      },
+      {
+        "rule": "x.com/tgrthabertv"
+      },
+      {
+        "rule": "instagram.com/tgrthabertv"
+      },
+      {
+        "rule": "youtube.com/channel/UCzgrZ-CndOoylh2_e72nSBQ",
+        "reason": "TGRT"
+      },
+      {
+        "rule": "turkiyegazetesi.com.tr"
+      },
+      {
+        "rule": "x.com/turkiyegazetesi"
+      },
+      {
+        "rule": "instagram.com/turkiyegazetesicomtr"
+      },
+      {
+        "rule": "youtube.com/turkiyegazetesi"
+      },
+      {
+        "rule": "iea.com.tr",
+        "reason": "İhlas Ev Aletleri"
+      }
+    ],
+    "lastUpdated": "2025-03-31T20:41:32.625Z"
+  },
+  {
+    "id": "b3e32d58-3221-441a-aad3-d35172c115cd",
+    "name": "Demirören Grubu",
+    "description": "",
+    "url": "https://boykotyap.net/",
+    "brands": [],
+    "domains": [
+      {
+        "rule": "dha.com.tr"
+      },
+      {
+        "rule": "x.com/dha_com_tr"
+      },
+      {
+        "rule": "instagram.com/dha_com_tr"
+      },
+      {
+        "rule": "youtube.com/channel/UCxdpqtb0HIOdH7RGyfgmJbA",
+        "reason": "DHA"
+      },
+      {
+        "rule": "kanald.com.tr"
+      },
+      {
+        "rule": "x.com/kanald"
+      },
+      {
+        "rule": "instagram.com/kanald"
+      },
+      {
+        "rule": "youtube.com/channel/UCFoe1tg8MuHjRzmqXtV816A",
+        "reason": "Kanal D"
+      },
+      {
+        "rule": "cnnturk.com"
+      },
+      {
+        "rule": "x.com/cnnturk"
+      },
+      {
+        "rule": "instagram.com/cnnturk"
+      },
+      {
+        "rule": "youtube.com/@cnnturk"
+      },
+      {
+        "rule": "teve2.com.tr"
+      },
+      {
+        "rule": "x.com/teve2Official"
+      },
+      {
+        "rule": "instagram.com/teve2"
+      },
+      {
+        "rule": "youtube.com/c/teve2"
+      },
+      {
+        "rule": "dreamtv.com.tr"
+      },
+      {
+        "rule": "x.com/DreamTvOfficial"
+      },
+      {
+        "rule": "instagram.com/dreamtv"
+      },
+      {
+        "rule": "dreamturk.com.tr"
+      },
+      {
+        "rule": "x.com/dreamturk"
+      },
+      {
+        "rule": "instagram.com/dreamturktv"
+      },
+      {
+        "rule": "https://www.youtube.com/channel/UCWDmCy629aD4sKb2Bm-AGSg",
+        "reason": "DreamTurk"
+      },
+      {
+        "rule": "milliyet.com.tr"
+      },
+      {
+        "rule": "x.com/milliyet"
+      },
+      {
+        "rule": "instagram.com/milliyetcomtr"
+      },
+      {
+        "rule": "hurriyet.com.tr"
+      },
+      {
+        "rule": "x.com/Hurriyet"
+      },
+      {
+        "rule": "instagram.com/hurriyetcomtr"
+      },
+      {
+        "rule": "youtube.com/c/hurriyet"
+      },
+      {
+        "rule": "posta.com.tr"
+      },
+      {
+        "rule": "x.com/postacomtr"
+      },
+      {
+        "rule": "instagram.com/posta.com.tr"
+      },
+      {
+        "rule": "youtube.com/channel/UCulneMKTggjG_dO3iHQEh3w",
+        "reason": "Posta"
+      },
+      {
+        "rule": "fanatik.com.tr"
+      },
+      {
+        "rule": "x.com/fanatikcomtr"
+      },
+      {
+        "rule": "instagram.com/fanatikcomtr"
+      },
+      {
+        "rule": "gazetevatan.com"
+      },
+      {
+        "rule": "x.com/vatan"
+      },
+      {
+        "rule": "instagram.com/gazetevatancom"
+      },
+      {
+        "rule": "misli.com"
+      },
+      {
+        "rule": "instagram.com/mislicom"
+      },
+      {
+        "rule": "x.com/mislicom"
+      },
+      {
+        "rule": "youtube.com/user/MisliTv"
+      },
+      {
+        "rule": "iddaa.com"
+      },
+      {
+        "rule": "x.com/iddaa"
+      },
+      {
+        "rule": "instagram.com/iddaa"
+      },
+      {
+        "rule": "youtube.com/user/iddaatube"
+      },
+      {
+        "rule": "https://www.millipiyangoonline.com/"
+      }
+    ],
+    "lastUpdated": "2025-03-31T20:45:06.844Z"
+  },
+  {
+    "id": "28d34789-9887-45c9-b5ce-2ce8b90afc89",
+    "name": "Turkuvaz Medya",
+    "description": "",
+    "url": "https://boykotyap.net/",
+    "brands": [],
+    "domains": [
+      {
+        "rule": "atv.com.tr"
+      },
+      {
+        "rule": "x.com/atvcomtr"
+      },
+      {
+        "rule": "instagram.com/atvturkiye"
+      },
+      {
+        "rule": "youtube.com/@atvturkiye"
+      },
+      {
+        "rule": "ahaber.com.tr"
+      },
+      {
+        "rule": "x.com/Ahaber"
+      },
+      {
+        "rule": "instagram.com/tvahaber"
+      },
+      {
+        "rule": "youtube.com/c/aHaber"
+      },
+      {
+        "rule": "sabah.com.tr"
+      },
+      {
+        "rule": "x.com/sabah"
+      },
+      {
+        "rule": "youtube.com/@sabah"
+      },
+      {
+        "rule": "takvim.com.tr"
+      },
+      {
+        "rule": "x.com/takvim"
+      },
+      {
+        "rule": "instagram.com/takvim"
+      },
+      {
+        "rule": "youtube.com/takvim"
+      },
+      {
+        "rule": "fotomac.com.tr"
+      },
+      {
+        "rule": "x.com/fotomac"
+      },
+      {
+        "rule": "instagram.com/fotomac"
+      },
+      {
+        "rule": "youtube.com/channel/UCcF5PgeaHTUFz1duHaGICWg",
+        "reason": "Fotomaç"
+      },
+      {
+        "rule": "idefix.com"
+      },
+      {
+        "rule": "x.com/idefix"
+      },
+      {
+        "rule": "instagram.com/idefixcom"
+      },
+      {
+        "rule": "dr.com.tr"
+      },
+      {
+        "rule": "x.com/DRdunyasi"
+      },
+      {
+        "rule": "instagram.com/drdunyasi"
+      },
+      {
+        "rule": "prefix.com.tr"
+      },
+      {
+        "rule": "sabitfikir.com"
+      }
+    ],
+    "lastUpdated": "2025-03-31T20:42:18.615Z"
+  },
+  {
+    "id": "3b46ecdc-fd50-4b97-9500-79a48484e914",
+    "name": "Yıldız Holding",
+    "description": "",
+    "brands": [],
+    "domains": [
+      {
+        "rule": "sokmarket.com.tr"
+      },
+      {
+        "rule": "x.com/SokMarketler"
+      },
+      {
+        "rule": "instagram.com/sokmarketler"
+      },
+      {
+        "rule": "youtube.com/sokmarketler"
+      },
+      {
+        "rule": "godiva.com.tr"
+      },
+      {
+        "rule": "x.com/GodivaTurkiye"
+      },
+      {
+        "rule": "instagram.com/GodivaTurkiye"
+      },
+      {
+        "rule": "youtube.com/channel/UCxw5PfmLLy47Q3jsdun1biQ",
+        "reason": "Godiva"
+      }
+    ],
+    "lastUpdated": "2025-03-31T20:42:26.478Z",
+    "url": "https://boykotyap.net/"
+  },
+  {
+    "id": "a4a9ac0f-4fd0-4eef-ac47-24e51f93f919",
+    "name": "Ülker",
+    "description": "",
+    "brands": [
+      {
+        "rule": "caramio"
+      },
+      {
+        "rule": "albeni"
+      },
+      {
+        "rule": "alpella"
+      },
+      {
+        "rule": "coco star"
+      },
+      {
+        "rule": "cocostar"
+      },
+      {
+        "rule": "çokomilk"
+      },
+      {
+        "rule": "çokonat"
+      },
+      {
+        "rule": "hobby"
+      },
+      {
+        "rule": "laviva"
+      },
+      {
+        "rule": "piko"
+      },
+      {
+        "rule": "çokokrem"
+      },
+      {
+        "rule": "biskrem"
+      },
+      {
+        "rule": "çokomel"
+      },
+      {
+        "rule": "çokoprens"
+      },
+      {
+        "rule": "hanımeller"
+      },
+      {
+        "rule": "haylayf"
+      },
+      {
+        "rule": "çiziviç"
+      },
+      {
+        "rule": "krispi"
+      },
+      {
+        "rule": "altınbaşak"
+      },
+      {
+        "rule": "dankek"
+      },
+      {
+        "rule": "kekstra"
+      },
+      {
+        "rule": "ülker"
+      },
+      {
+        "rule": "ulker"
+      },
+      {
+        "rule": "kremini"
+      },
+      {
+        "rule": "yupo"
+      }
+    ],
+    "domains": [
+      {
+        "rule": "ulker.com.tr"
+      },
+      {
+        "rule": "x.com/Ulker"
+      },
+      {
+        "rule": "instagram.com/ulker"
+      },
+      {
+        "rule": "youtube.com/channel/UCrd19Gk2M85A-2OiCUIZrLQ",
+        "reason": "Ülker"
+      }
+    ],
+    "lastUpdated": "2025-03-31T20:50:37.584Z"
+  },
+  {
+    "id": "213a8899-3085-48b7-b166-b3466c010305",
+    "name": "Doğuş Grubu",
+    "description": "",
+    "url": "https://boykotyap.net/",
+    "brands": [
+      {
+        "rule": "Volkswagen"
+      },
+      {
+        "rule": "Skoda"
+      },
+      {
+        "rule": "Audi"
+      },
+      {
+        "rule": "Nusr-Et"
+      }
+    ],
+    "domains": [
+      {
+        "rule": "ntv.com.tr"
+      },
+      {
+        "rule": "x.com/ntv"
+      },
+      {
+        "rule": "www.instagram.com/ntv"
+      },
+      {
+        "rule": "youtube.com/ntv"
+      },
+      {
+        "rule": "startv.com.tr"
+      },
+      {
+        "rule": "x.com/startv"
+      },
+      {
+        "rule": "instagram.com/startv"
+      },
+      {
+        "rule": "youtube.com/user/STARTVSTAR"
+      },
+      {
+        "rule": "kralmuzik.com.tr"
+      },
+      {
+        "rule": "x.com/KralPop"
+      },
+      {
+        "rule": "instagram.com/kralpop"
+      },
+      {
+        "rule": "vw.com.tr"
+      },
+      {
+        "rule": "skoda.com.tr"
+      },
+      {
+        "rule": "audi.com.tr"
+      },
+      {
+        "rule": "gunaydinet.com"
+      },
+      {
+        "rule": "nusr-et.com.tr"
+      }
+    ],
+    "lastUpdated": "2025-03-31T21:43:24.954Z"
+  },
+  {
+    "id": "10144137-a27d-4675-be64-9ceba5cdeae7",
+    "name": "Türk Medya",
+    "description": "",
+    "url": "https://boykotyap.net/",
+    "brands": [],
+    "domains": [
+      {
+        "rule": "aksam.com.tr"
+      },
+      {
+        "rule": "x.com/aksam"
+      },
+      {
+        "rule": "instagram.com/aksam"
+      },
+      {
+        "rule": "youtube.com/user/aksamgazetesi"
+      },
+      {
+        "rule": "star.com.tr"
+      },
+      {
+        "rule": "x.com/stargazete"
+      },
+      {
+        "rule": "instagram.com/stargazete"
+      },
+      {
+        "rule": "youtube.com/channel/UCv4lXYH3XXLUHl54aykON0A"
+      },
+      {
+        "rule": "yirmidort.tv"
+      },
+      {
+        "rule": "x.com/yirmidorttv"
+      },
+      {
+        "rule": "instagram.com/yirmidorttv"
+      },
+      {
+        "rule": "youtube.com/c/YirmidortTV"
+      }
+    ],
+    "lastUpdated": "2025-03-31T20:55:31.875Z"
+  },
+  {
+    "id": "25fb8848-f3bc-4011-92bf-4750fe95978e",
+    "name": "Yeni Şafak",
+    "description": "",
+    "url": "https://boykotyap.net/",
+    "brands": [],
+    "domains": [
+      {
+        "rule": "yenisafak.com"
+      },
+      {
+        "rule": "x.com/yenisafak"
+      },
+      {
+        "rule": "instagram.com/yenisafak"
+      },
+      {
+        "rule": "youtube.com/channel/UCClO1RgRkaOcC9cLj-bLuEw"
+      }
+    ],
+    "lastUpdated": "2025-03-31T21:36:13.112Z"
+  },
+  {
+    "id": "af9eeb0c-13d3-4716-8132-7a03cbc4dbff",
+    "name": "Beyaz TV",
+    "description": "",
+    "url": "https://boykotyap.net/",
+    "brands": [],
+    "domains": [
+      {
+        "rule": "beyaztv.com.tr"
+      },
+      {
+        "rule": "x.com/beyaztv"
+      },
+      {
+        "rule": "instagram.com/beyaztv"
+      }
+    ],
+    "lastUpdated": "2025-03-31T21:37:12.509Z"
+  }
+]
